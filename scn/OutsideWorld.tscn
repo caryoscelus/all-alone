@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=1]
+
+[ext_resource path="res://scn/Plane.tscn" type="PackedScene" id=1]
+
+[node name="OutsideWorld" type="Node2D"]
+
+[node name="Flying" parent="." instance=ExtResource( 1 )]
+
+transform/pos = Vector2( 82.9037, 67.8303 )
+
+

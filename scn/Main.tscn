@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=1]
+[gd_scene load_steps=3 format=1]
 
 [ext_resource path="res://gfx/bg/room.png" type="Texture" id=1]
+[ext_resource path="res://scn/OutsideWorld.tscn" type="PackedScene" id=2]
 
 [node name="Main" type="Node2D"]
 
@@ -19,5 +20,7 @@ margin/right = 0.0
 margin/bottom = 0.0
 texture = ExtResource( 1 )
 stretch_mode = 0
+
+[node name="OutsideWorld" parent="." instance=ExtResource( 2 )]
 
 

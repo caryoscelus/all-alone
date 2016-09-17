@@ -31,6 +31,54 @@ transform/pos = Vector2( -697.357, 397.77 )
 
 transform/pos = Vector2( -893.725, 80.5611 )
 
+[node name="plane7" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1221, 186.298 )
+
+[node name="plane8" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1369.54, 239.166 )
+
+[node name="plane9" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1465.21, 161.122 )
+
+[node name="plane10" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1591.08, 339.867 )
+
+[node name="plane11" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1674.16, 105.736 )
+
+[node name="plane12" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1832.77, 256.789 )
+
+[node name="plane13" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -1961.16, 168.675 )
+
+[node name="plane14" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -2311.1, 297.069 )
+
+[node name="plane15" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -2462.15, 365.043 )
+
+[node name="plane16" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -2588.03, 115.807 )
+
+[node name="plane17" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -2975.73, 193.85 )
+
+[node name="plane18" parent="outside" instance=ExtResource( 1 )]
+
+transform/pos = Vector2( -3290.42, 128.394 )
+
 [node name="room" type="TextureFrame" parent="."]
 
 anchor/right = 1
